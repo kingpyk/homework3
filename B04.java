@@ -17,7 +17,5 @@ if(salary<80000000)
 tax = salary*0.28;
 if(salary>80000000)
 tax = salary*0.37
-
 System.out.print("연봉을 금액에 대한 소득세는 :"+tax+"+입니다.");
-
 }
